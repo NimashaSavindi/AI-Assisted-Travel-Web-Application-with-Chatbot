@@ -1,6 +1,8 @@
 # AI-Assisted Travel Web Application with Chatbot
 
-🌍 [View Live Demo](https://sri-lanka-dreams-unfold.lovable.app/)
+<p align="center">
+  🌍 <a href="https://sri-lanka-dreams-unfold.lovable.app/">View Live Demo</a>
+</p>
 
 ## Overview
 
