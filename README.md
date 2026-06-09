@@ -1,5 +1,7 @@
 # AI-Assisted Travel Web Application with Chatbot
 
+🌍 [View Live Demo](https://sri-lanka-dreams-unfold.lovable.app/)
+
 ## Overview
 
 This project involved redesigning a Sri Lankan travel and tourism web application while preserving its original business concept and services.
@@ -27,10 +29,6 @@ The focus was on improving:
 - AI-powered travel assistance chatbot
 - Improved content organization
 - Enhanced customer engagement
-
-## Live Demo
-
-[https://your-demo-link.com](https://sri-lanka-dreams-unfold.lovable.app/)
 
 ## Project Outcome
 
